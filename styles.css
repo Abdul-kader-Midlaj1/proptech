@@ -89,7 +89,7 @@ h1{font-size:clamp(1.6rem,3.4vw,2.6rem);margin:0 0 .35rem;letter-spacing:-0.02em
 /* buttons */
 .btn{display:inline-block;padding:.55rem .9rem;border-radius:9px;text-decoration:none;font-weight:600}
 .btn-primary{background:linear-gradient(90deg,var(--accent),#60a5fa);color:#022029;box-shadow:0 8px 30px rgba(45,212,191,0.09)}
-.btn-outline{border:1px solid rgba(255,255,255,0.06);color:#fff;background:transparent}
+.btn-outline{border:1px solid rgba(255,255,255,0.06);background:transparent}
 
 /* responsive */
 @media (max-width:980px){
